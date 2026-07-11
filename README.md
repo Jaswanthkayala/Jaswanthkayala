@@ -56,11 +56,7 @@
 
 # 👨🏻‍💻 About Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jaswanthkayala/Jaswanthkayala/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
+<img align="center" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 Cybersecurity isn't just my field of study—it's the discipline that drives my curiosity and continuous learning.
 
