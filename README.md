@@ -1,263 +1,111 @@
-<!-- ========================================================= -->
-<!--                  CYBERSECURITY PROFILE                    -->
-<!-- ========================================================= -->
+# <div align="center">👋 Hi, I'm Jaswanth Pardha Saradhi Kayala</div>
 
-<h1 align="center">
-  Hi 👋, I'm Jaswanth Pardha Saradhi Kayala
-</h1>
+<div align="center">
 
-<h3 align="center">
-Cybersecurity Enthusiast • Malware Analysis • Digital Forensics • Network Security
-</h3>
+### 🛡️ Cybersecurity Enthusiast • Malware Analysis • Digital Forensics • Linux • Python
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Cybersecurity+Enthusiast;Digital+Forensics+Learner;Malware+Analysis+using+YARA;Linux+Explorer;Python+Developer;Network+Security+Learner;Always+Learning+Something+New..." />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,25:203a43,50:2c5364,75:00C9FF,100:92FE9D&text=Jaswanth%20Pardha%20Saradhi%20Kayala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Threat%20Detection&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;Malware+Analysis;Digital+Forensics;Linux+Security;Threat+Detection;Incident+Response;Blue+Team+Operations;Python+Automation;Always+Learning...)](https://git.io/typing-svg)
+
+</div>
 
 ---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:jaswanthkayala@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthkayala@outlook.com)
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jaswanthkayala)
 
-<a href="#">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</a>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_PROFILE_ID)
 
 </p>
-
----
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Jaswanthkayala&style=for-the-badge&color=0891b2)
 
 </p>
 
 ---
 
-# 👨🏻‍💻 About Me
+# 💻 About Me
 
-```yaml
-Name: Jaswanth Pardha Saradhi Kayala
+> _"Learning never stops in cybersecurity. Every challenge is an opportunity to become a better defender."_
 
-Role:
-  Cybersecurity Enthusiast
+I am a **Computer Security postgraduate** passionate about protecting digital systems through continuous learning and practical experience.
 
-Education:
-  Master's Student in Computer Security
+My interests include:
 
-Nationality:
-  Indian
+- 🛡️ Malware Analysis
+- 🔍 Digital Forensics
+- 🌐 Network Security
+- 🐧 Linux Administration
+- ☁️ Cloud Security
+- 🚨 Threat Detection
+- 🔵 Blue Team Operations
+- 🐍 Python Security Automation
 
-Location:
-  Visakhapatnam, India
+I enjoy understanding how cyber attacks work, investigating security incidents, and developing practical skills with modern cybersecurity tools and defensive techniques.
 
-Interests:
-  - Malware Analysis
-  - Digital Forensics
-  - Network Security
-  - Linux
-  - Cloud Security
-  - Ethical Hacking
-  - Vulnerability Assessment
-
-Current Goal:
-  Become a Security Engineer specializing in
-  Threat Detection,
-  Incident Response,
-  and Defensive Security.
-```
+My goal is to become a **Security Engineer** specializing in **Threat Detection**, **Incident Response**, and **Defensive Security**.
 
 ---
 
-# 🚀 About Me
+# 🚀 Professional Profile
 
-Passionate Computer Security postgraduate with a strong interest in **malware analysis, digital forensics, network security, Linux, and Python**. I enjoy understanding modern cyber threats, investigating security incidents, and continuously learning defensive security techniques.
-
-I have worked on academic projects involving **YARA-based malware detection**, **web scraping with Selenium**, and a **Hospital Management System frontend**, while building hands-on experience with cybersecurity tools such as **Wireshark**, **Burp Suite**, **Nmap**, **Nessus**, **OpenVAS**, **Autopsy**, and **VirusTotal**.
-
-I believe cybersecurity is a continuous learning journey, and I'm committed to strengthening my technical skills through labs, certifications, and practical security projects.
-
----
-
-# 🛡️ Areas of Interest
-
-- Malware Analysis
-- Digital Forensics
-- Threat Hunting
-- Incident Response
-- Vulnerability Assessment
-- Network Security
-- Cloud Security
-- Linux Administration
-- Security Automation
-- Python for Cybersecurity
+| Category | Information |
+|:---------|:------------|
+| 🎓 Education | Master's in Computer Security |
+| 🛡️ Specialization | Cybersecurity |
+| 🎯 Career Goal | Security Engineer |
+| 💻 Programming | Python, Java, C, SQL |
+| 🐧 Operating Systems | Linux & Security Distributions |
+| 🌐 Focus | Network Security |
+| 🔍 Interests | Malware Analysis & Digital Forensics |
+| ☁️ Learning | Cloud Security |
+| 📈 Current Goal | Threat Detection & Incident Response |
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 Current Focus
 
-✔ Active Directory Security
-
-✔ Cloud Security
-
-✔ SIEM Fundamentals
-
-✔ Threat Intelligence
-
-✔ Incident Response
-
-✔ SOC Operations
-
-✔ MITRE ATT&CK Framework
-
-✔ Blue Team Operations
+- 🔐 Malware Analysis
+- 🔍 Digital Forensics
+- 🌐 Network Security
+- 🐧 Linux Security
+- ☁️ Cloud Security
+- 🚨 Threat Detection
+- 🛡️ Incident Response
+- 🔵 Blue Team Operations
+- 🧠 Threat Intelligence
+- ⚡ Python Automation
 
 ---
 
-# 💻 Programming Languages
+# 📖 Philosophy
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+> **"Cybersecurity is a continuous process of learning, adapting, and staying ahead of evolving threats."**
 
 ---
 
-# 🖥 Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-</p>
-
----
-
-# 🌐 Networking & Web Security
-
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenVAS-006400?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔍 Digital Forensics
-
-<p>
-
-<img src="https://img.shields.io/badge/Autopsy-222222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FTK%20Imager-005BAC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ExifTool-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Foremost-808080?style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚔ Security Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/YARA-FFCC00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</p>
-
----
-
-# ☁ Cloud & Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 🏆 Certifications
-
-🥇 Google Cybersecurity Professional Certificate
-
-🥇 Cisco Networking Academy – Introduction to Cybersecurity
-
-🥇 NPTEL – Cybersecurity Practitioner
-
-🥇 NPTEL – Privacy & Security in Online Social Media
-
-🥇 HackerRank – Python (Basic)
-
-🥇 HackerRank – SQL (Intermediate)
-
-🥇 HackerRank – Problem Solving
-
-🥇 Hack The Box – Vulnerability Assessment
-
----
-
-# 💡 Cybersecurity Philosophy
-
-> **"Security is not about eliminating every threat—it's about continuously improving resilience, reducing risk, and staying one step ahead."**
-
----
-
-# ⚡ Fun Fact
+## ⚡ Current Mission
 
 ```text
-I enjoy breaking down complex cyber threats,
-analyzing malware behavior,
-exploring Linux environments,
-and constantly learning how attackers think
-to build stronger defenses.
+Learn  →  Analyze  →  Defend  →  Secure
 ```
 
 ---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
