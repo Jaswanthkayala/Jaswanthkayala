@@ -22,15 +22,15 @@
 
 <div align="center">
 
-<a href="mailto:jaswanthkayala@outlook.com">
+<a href="mailto:jaswanth-pardha-saradhi.kayala@epita.fr">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jaswanth-pardha-saradhi-k-277927253/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Jaswanthkayala">
+<a href="[https://github.com/Jaswanthkayala](https://github.com/Jaswanthkayala)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
